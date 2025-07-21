@@ -12,4 +12,5 @@ https://drive.google.com/file/d/1m6Rd5nxol_cT2EKHSodli9HD1L6k0bKR/view
 ## Model
 Sử dụng các mô hình và thư viện như: MtcnnDetector, EfficientNetB0, Tensorflow, cv2, imutils...
 ## Output example
+![](https://github.com/nguyenhoangbuu/Face_recognition_with_masks/blob/main/output.png)
 
