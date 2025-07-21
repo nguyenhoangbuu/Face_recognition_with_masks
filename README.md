@@ -10,4 +10,6 @@ https://www.kaggle.com/andrewmvd/face-mask-detection
 https://www.kaggle.com/omkargurav/face-mask-dataset
 https://drive.google.com/file/d/1m6Rd5nxol_cT2EKHSodli9HD1L6k0bKR/view
 ## Model
+Sử dụng các mô hình và thư viện như: MtcnnDetector, EfficientNetB0, Tensorflow,...
 ## Output example
+
